@@ -8,7 +8,7 @@ This repository implements the methodology proposed in the paper "Conflict-Aware
 
 
 ## Paper Overview
-**Abstract**: earable-sensor-based human activity recognition
+**Abstract**: Wearable-sensor-based human activity recognition
 can benefit from jointly exploiting time- and frequency-domain
 representations. However, the reliability of these representations
 varies across activities and samples, and conventional fusion
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ```
 
 ## Codebase Overview
-- `model.py` - Implementation of the proposed **lightweight conflict-aware reconciliatin** framework.
+- `model.py` - Implementation of the proposed **Lightweight Conflict-aware Reconciliation** framework.
 The implementation uses PyTorch, Numpy, pandas, scikit-learn, matplotlib, seaborn.
 
 ## Citing this Repository
